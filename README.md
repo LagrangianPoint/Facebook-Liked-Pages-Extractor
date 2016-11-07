@@ -5,8 +5,7 @@ If Facebook bans you for "Liking too many Facebook pages", it's likely that you'
 ## Usage steps
 1. Access your liked pages:  https://www.facebook.com/pages/?category=liked
 2. Scroll down to the very bottom of the page in step 1, untill no longer any new liked pages get loaded. 
-3. Create a new bookmark with the name "Facebook Liked Pages Extractor" in your browser, but instead of inserting a new url, insert this code:
-```javascript
+3. Create a new bookmark with the name "Facebook Liked Pages Extractor" in your browser, but instead of inserting a new url, insert this code: ```javascript
 javascript: (function () { 
 
 	var arrData = document.querySelectorAll('a[target=_self]') ;
