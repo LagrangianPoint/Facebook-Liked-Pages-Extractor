@@ -34,8 +34,10 @@ If Facebook bans you for "Liking too many Facebook pages", it's likely that you'
 
 ## Browser Support
 This bookmarklet will probably not work on all browsers. The only JavaScript used for this code are these:
-https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll
-https://developer.mozilla.org/en/docs/Web/API/Element/getAttribute
+
+- [querySelectorAll](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelectorAll) 
+- [getAttribute](https://developer.mozilla.org/en/docs/Web/API/Element/getAttribute)
+
 You can check if your browser is compatible. If your browser version is older than any of the ones mentioned on the previous page, then this bookmarklet won't wor.
 For better results, use the latest version of Firefox browser.
 
