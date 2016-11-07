@@ -23,8 +23,8 @@ javascript: (function () {
 	}
 	
 	document.body.innerHTML = document.body.innerHTML +
-	'<div style="position:absolute;width:100%;height:250px;top:100px;opacity:0.9;z-index:10000;background:#29487d;text-align:center;">
-	<textarea cols="185" rows="15">' + strContent +  '</textarea></div>' ;
+	'<div style="position:absolute;width:100%;height:250px;top:100px;opacity:0.9;z-index:10000;background:#29487d;text-align:center;">' +
+	+'<textarea cols="185" rows="15">' + strContent +  '</textarea></div>' ;
   
 }());
 ```
