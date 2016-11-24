@@ -1,4 +1,4 @@
-# Facebook-Liked-Pages-Extractor (Bookmarklet)
+# Facebook Liked Pages Extractor (Bookmarklet)
 This is a Bookmarlet to help you extract your liked pages if Facebook bans you.
 If Facebook bans you for "Liking too many Facebook pages", it's likely that you'll no longer be able to like at all, so it's time to create a new account. You can use this bookmarlet to extract all the pages you have bookmarked.
 
